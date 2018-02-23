@@ -1,4 +1,4 @@
-package com.open.net.util;
+package com.open.net.base.util;
 
 /**
  * author       :   long

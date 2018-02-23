@@ -1,4 +1,4 @@
-package com.open.net.define;
+package com.open.net.base;
 
 public interface IPoller {
 	public void onPoll();

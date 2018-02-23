@@ -1,4 +1,4 @@
-package com.open.net.define;
+package com.open.net.base;
 
 import java.util.ArrayList;
 

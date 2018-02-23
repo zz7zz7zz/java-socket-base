@@ -1,4 +1,4 @@
-package com.open.net.util;
+package com.open.net.base.util;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
